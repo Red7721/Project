@@ -1,5 +1,0 @@
-commit f9acad8bfe474132dc97bc3978f8e4231b09b097
-Author: Red7721 <rambam7721@gmail.com>
-Date:   Wed Sep 23 13:38:02 2020 +0530
-
-    as per task added file1 to gitignore
